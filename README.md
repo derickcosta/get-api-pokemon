@@ -1,2 +1,2 @@
 # get-api-pokemon
-Projeto de extra da API do Pokemon
+Projeto de extração da API do Pokemon
